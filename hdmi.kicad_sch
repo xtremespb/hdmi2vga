@@ -3,11 +3,11 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "7e28e9b9-695b-4bee-8d52-f7fc6ff2d367")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "HDMI to VGA Passive Adapter")
-		(date "2024-12-01")
-		(rev "1.0")
+		(date "2024-12-29")
+		(rev "2.0")
 		(company "Mikhail Matveev")
 	)
 	(lib_symbols
@@ -1149,7 +1149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LIBS:HDMI"
+		(property "Footprint" "Connector_Video:HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal"
 			(at 50.8 88.9 0)
 			(effects
 				(font

@@ -6,9 +6,10 @@
 	(paper "A3")
 	(title_block
 		(title "HDMI to VGA Passive Adapter")
-		(date "2024-12-01")
-		(rev "1.0")
+		(date "2024-12-29")
+		(rev "2.0")
 		(company "Mikhail Matveev")
+		(comment 1 "https://github.com/xtremespb/hdmi2vga")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x06_Pin"

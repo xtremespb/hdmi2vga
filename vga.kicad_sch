@@ -3,11 +3,11 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "c41318a7-3714-4d63-b41b-935841931f33")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "HDMI to VGA Passive Adapter")
-		(date "2024-12-01")
-		(rev "1.0")
+		(date "2024-12-29")
+		(rev "2.0")
 		(company "Mikhail Matveev")
 	)
 	(lib_symbols
