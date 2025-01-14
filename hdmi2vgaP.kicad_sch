@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "HDMI to VGA Passive Adapter")
-		(date "2024-12-29")
+		(date "2025-01-14")
 		(rev "2.0")
 		(company "Mikhail Matveev")
 		(comment 1 "https://github.com/xtremespb/hdmi2vga")
@@ -2057,7 +2057,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "1K"
 			(at 57.404 88.9 90)
 			(effects
 				(font
